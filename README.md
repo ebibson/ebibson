@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ebibson
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Git, GitHub and GitLab
+- 🌱 I’m currently learning how to use: Git, GitHub and GitLab
 
 <!---
 ebibson/ebibson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
